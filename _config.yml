@@ -6,19 +6,19 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Smart Data
+tagline:          'Smart Data Integration for Urban Modeling'
+description:      'A project funded by <a href="http://otrec.us/nitc" target="_blank">NITC</a>'
+url:              http://cities.github.io/smartdata
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Liming Wang'
+  url:            'http://web.pdx.edu/~limwang'
 
 paginate:         5
 
 # Custom vars
-version:          2.0.0
+version:          0.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/cities/smartdata
