@@ -1,6 +1,6 @@
 # Website
 
-The website for the SmartData project, built with [Jekyll](http://jekyllrb.com) and [Hyde](http://hyde.getpoole.com).
+The website for [the SmartData project](https://cities.github.io/smartdata), built with [Jekyll](http://jekyllrb.com) and [Hyde](http://hyde.getpoole.com).
 
 ## Author
 
